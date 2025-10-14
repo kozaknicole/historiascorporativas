@@ -23,14 +23,6 @@
 		display: inline-block;
 	}
 
-	.imgindex {
-		width: 25%;
-		height: auto;
-		object-fit: cover;
-		display: inline-block;
-	}
-
-
 	ul{
 		list-style: none;
 	}
