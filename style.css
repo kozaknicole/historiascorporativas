@@ -27,4 +27,7 @@
 	ul{
 		list-style: none;
 	}
-	#principal {}
+	
+	li a{
+		color: rgb(94, 54, 3);
+	}
