@@ -16,7 +16,7 @@
 	}
 
 	img {
-		width: 500px;
+		width: auto;
 		object-fit: cover;
 		display: inline-block;
 	}
