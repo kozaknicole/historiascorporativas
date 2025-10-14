@@ -1,7 +1,7 @@
 	body {
 		background-color: rgb(209, 175, 130);
 		text-align: center;
-		line-height: 1,5;
+		line-height: 1, 5;
 		margin: 0px;
 		padding: 0px;
 	}
@@ -26,19 +26,19 @@
 		display: inline-block;
 	}
 
-	.imgindex{
+	.imgindex {
 		width: 15%;
 
 	}
 
-	ul{
+	ul {
 		list-style: none;
 	}
-	
-	li a{
+
+	li a {
 		color: rgb(94, 54, 3);
 	}
 
 	a {
-		color:rgb(94, 54, 3) ;
+		color: rgb(94, 54, 3);
 	}
