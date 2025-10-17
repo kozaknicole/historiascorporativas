@@ -48,3 +48,11 @@
 	nav a:hover{
 		color:rgb(190, 154, 105) ;
 	}
+
+	 nav a {
+            display: block;
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            float: left;
+	 }
