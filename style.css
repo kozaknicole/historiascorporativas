@@ -35,7 +35,7 @@
 		list-style: none;
 	}
 
-	li a {
+	li a:hover{
 		color: rgb(94, 54, 3);
 	}
 
