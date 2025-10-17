@@ -46,11 +46,11 @@
 	}
 
 	nav a:hover{
-		color:rgb(190, 154, 105) ;
+		color:rgb(94, 54, 3) ;
 	}
 
 	 nav a {
-            color: white;
+            color: rgb(190, 154, 105);
             padding: 14px 20px;
             text-decoration: none;
     
