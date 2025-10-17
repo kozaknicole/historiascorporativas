@@ -35,7 +35,7 @@
 		list-style: none;
 	}
 
-	li a:hover{
+	li a{
 		color: rgb(94, 54, 3);
 	}
 
@@ -43,4 +43,8 @@
 		color: rgb(94, 54, 3);
 		text-decoration: none;
 		
+	}
+
+	a:hover{
+		color:rgb(94, 54, 3) ;
 	}
